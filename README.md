@@ -1,3 +1,7 @@
+Hi there! 👋 
+
+**I'm Ray and I develop tools and technology, mostly for games development and most of them open-source!**
+
 <table border="0">
     <tbody style="border: none;">
         <!-- Row 1 -->
@@ -35,10 +39,6 @@
         </tr>
     </tbody>
 </table>
-
-Hi there! 👋 
-
-**I'm Ray and I develop tools and technology, mostly for games development and most of them open-source!**
 
 In my GitHub you can find many of my open source projects! 😄
 
