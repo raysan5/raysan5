@@ -44,6 +44,8 @@ In my GitHub you can find many of my open source projects! 😄
 
 - 🔥 Creator of [raylib](https://github.com/raysan5/raylib) and multiple [raylibtech](https://www.raylibtech.com) tools!
 - 🛠 You can find my tools on [itch.io](https://raylibtech.itch.io/) and [Steam](https://store.steampowered.com/developer/raylibtech)
-- 💬 Feel free ask me about raylib, tools and games development: ray@raylib.com
-- 🐥 Follow me on Twitter/X: [@raysan5](https://x.com/raysan5) or [LinkedIn](https://www.linkedin.com/in/raysan/) 
+- 💬 Feel free to ask me about raylib, tools and games development: ray@raylib.com
+- 🐥 Follow me on X ([@raysan5](https://x.com/raysan5)), on BlueSky ([@raysan5](https://bsky.app/profile/raysan5.bsky.social)) or [LinkedIn](https://www.linkedin.com/in/raysan/) 
 - ❤ You can support me on [GitHub sponsors](https://github.com/sponsors/raysan5) and [Patreon](https://www.patreon.com/raylib)
+
+Enjoy it! 
