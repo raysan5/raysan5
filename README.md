@@ -2,14 +2,14 @@
     <tbody style="border: none;">
         <!-- Row 1 -->
         <tr style="border: none;">
-            <td style="border: none;"><a href="https://www.raylib.com"><img src="images/logo_raylib.png" alt="raylib" width="80" height="80"></a></td>
-            <td style="border: none;"><a href="https://github.com/raysan5/raylib/blob/master/src/rlgl.h"><img src="images/logo_rlgl.png" alt="rlgl" width="80" height="80"></a></td>
-            <td style="border: none;"><a href="https://github.com/raysan5/raylib/blob/master/src/raymath.h"><img src="images/logo_raymath.png" alt="raymath" width="80" height="80"></a></td>
-            <td style="border: none;"><a href="https://github.com/raysan5/raygui"><img src="images/logo_raygui.png" alt="raygui" width="80" height="80"></a></td>
-            <td style="border: none;"><a href="https://github.com/raysan5/rpng"><img src="images/logo_rpng.png" alt="rpng" width="80" height="80"></a></td>
-            <td style="border: none;"><a href="https://github.com/raysan5/rres"><img src="images/logo_rres.png" alt="rres" width="80" height="80"></a></td>
-            <td style="border: none;"><img src="images/logo_rkls.png" alt="rkls" width="80" height="80"></td>
-            <td style="border: none;"><a href="https://github.com/raysan5/rini"><img src="images/logo_rini.png" alt="rini" width="80" height="80"></a></td>
+            <td style="border: none;"><a href="https://www.raylib.com"><img src="images/logo_raylib.png" alt="raylib"></a></td>
+            <td style="border: none;"><a href="https://github.com/raysan5/raylib/blob/master/src/rlgl.h"><img src="images/logo_rlgl.png" alt="rlgl"></a></td>
+            <td style="border: none;"><a href="https://github.com/raysan5/raylib/blob/master/src/raymath.h"><img src="images/logo_raymath.png" alt="raymath"></a></td>
+            <td style="border: none;"><a href="https://github.com/raysan5/raygui"><img src="images/logo_raygui.png" alt="raygui"></a></td>
+            <td style="border: none;"><a href="https://github.com/raysan5/rpng"><img src="images/logo_rpng.png" alt="rpng"></a></td>
+            <td style="border: none;"><a href="https://github.com/raysan5/rres"><img src="images/logo_rres.png" alt="rres"></a></td>
+            <td style="border: none;"><img src="images/logo_rkls.png" alt="rkls"></td>
+            <td style="border: none;"><a href="https://github.com/raysan5/rini"><img src="images/logo_rini.png" alt="rini"></a></td>
         </tr>
         <!-- Row 2 -->
         <tr>
