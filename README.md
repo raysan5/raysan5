@@ -40,7 +40,7 @@ Hi there! 👋
         <!-- Row 4 -->
         <tr>
             <td style="border: none;"><img src="images/logo_rscreendeck.png" alt="rScreeenDeck"></td>
-            <td style="border: none;"><a href="https://github.com/raysan5/raylib/tree/master/tools/rlparser"><img src="images/logo_rparser.png" alt="rlparser"></a></td>
+            <td style="border: none;"><a href="https://github.com/raysan5/raylib/tree/master/tools/rlparser"><img src="images/logo_rlparser.png" alt="rlparser"></a></td>
             <td style="border: none;"><a href="https://github.com/raysan5/raylib/tree/master/tools/rexm"><img src="images/logo_rexm.png" alt="rexm"></a></td>
             <td style="border: none;"><img src="images/logo_raymake.png" alt="raymake"></td>
             <td style="border: none;"><a href="https://github.com/raysan5/raylib-project-creator"><img src="images/logo_rpc.png" alt="raylib project creator"></a></td>
