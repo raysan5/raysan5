@@ -12,7 +12,7 @@ Hi there! 👋
             <td style="border: none;"><a href="https://github.com/raysan5/raygui"><img src="images/logo_raygui.png" alt="raygui"></a></td>
             <td style="border: none;"><a href="https://github.com/raysan5/rpng"><img src="images/logo_rpng.png" alt="rpng"></a></td>
             <td style="border: none;"><a href="https://github.com/raysan5/rres"><img src="images/logo_rres.png" alt="rres"></a></td>
-            <td style="border: none;"><a href="https://github.com/raysan5/rkls"><img src="images/logo_rkls.png" alt="rkls"></td>
+            <td style="border: none;"><img src="images/logo_rkls.png" alt="rkls"></td>
             <td style="border: none;"><a href="https://github.com/raysan5/rini"><img src="images/logo_rini.png" alt="rini"></a></td>
         </tr>
         <!-- Row 2 -->
@@ -23,19 +23,28 @@ Hi there! 👋
             <td style="border: none;"><a href="https://raylibtech.itch.io/rguiicons"><img src="images/logo_rguiicons.png" alt="rGuiIcons"></a></td>
             <td style="border: none;"><a href="https://raylibtech.itch.io/riconpacker"><img src="images/logo_riconpacker.png" alt="rIconPacker"></a></td>
             <td style="border: none;"><a href="https://raylibtech.itch.io/rrespacker"><img src="images/logo_rrespacker.png" alt="rrespacker"></a></td>
-            <td style="border: none;"><a href="https://raylibtech.itch.io/rkeygen"><img src="images/logo_rkeygen.png" alt="rKeyGen"></td>
+            <td style="border: none;"><img src="images/logo_rkeygen.png" alt="rKeyGen"></td>
             <td style="border: none;"><a href="https://raylibtech.itch.io/rinstallfriendly"><img src="images/logo_rinstallfriendly.png" alt="rInstallFriendly"></a></td>
         </tr>
-        <!-- Row 6 -->
+        <!-- Row 3 -->
         <tr>
             <td style="border: none;"><a href="https://raylibtech.itch.io/rtexviewer"><img src="images/logo_rtexviewer.png" alt="rTexViewer"></a></td>
             <td style="border: none;"><a href="https://raylibtech.itch.io/rtexpacker"><img src="images/logo_rtexpacker.png" alt="rTexPacker"></a></td>
-            <td style="border: none;"><img src="images/logo_rfileimager.png" alt="rFileImager"></a></td>
+            <td style="border: none;"><img src="images/logo_rfileimager.png" alt="rFileImager"></td>
             <td style="border: none;"><a href="https://raylibtech.itch.io/rimageshield"><img src="images/logo_rimageshield.png" alt="rImageShield"></a></td>
             <td style="border: none;"><img src="images/logo_rtexteditor.png" alt="rTextEditor"></td>
             <td style="border: none;"><a href="https://raylibtech.itch.io/rquizzer"><img src="images/logo_rquizzer.png" alt="rQuizzer"></a></td>
-            <td style="border: none;"><img src="images/logo_rtimeline.png" alt="rTimeline"></a></td>
+            <td style="border: none;"><a href="https://www.raylib.com/timeline.html"><img src="images/logo_rtimeline.png" alt="rTimeline"></a></td>
             <td style="border: none;"><img src="images/logo_rtoolsetup.png" alt="rToolSetup"></td>
+        </tr>
+        <!-- Row 4 -->
+        <tr>
+            <td style="border: none;"><img src="images/logo_rscreendeck.png" alt="rScreeenDeck"></td>
+            <td style="border: none;"><a href="https://github.com/raysan5/raylib/tree/master/tools/rlparser"><img src="images/logo_rparser.png" alt="rlparser"></a></td>
+            <td style="border: none;"><a href="https://github.com/raysan5/raylib/tree/master/tools/rexm"><img src="images/logo_rexm.png" alt="rexm"></a></td>
+            <td style="border: none;"><img src="images/logo_raymake.png" alt="raymake"></td>
+            <td style="border: none;"><a href="https://github.com/raysan5/raylib-project-creator"><img src="images/logo_rpc.png" alt="raylib project creator"></a></td>
+            <td style="border: none;"><a href="https://github.com/raysan5/raylib-project-builder"><img src="images/logo_rpb.png" alt="raylib project builder"></a></td>
         </tr>
     </tbody>
 </table>
